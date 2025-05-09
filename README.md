@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm **Sherif Ahmed**, a passionate software develo
 
 Feel free to explore my repositories, raise issues, or ask questions. I'm always happy to collaborate or discuss new ideas!
 
-- 📫 **Email**: [your.email@example.com](s.ahmed2268@nu.edu.eg) 
-- 🔗 **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/sherif-ahmed-mahmoud) 
+- 📫 **Email**: [s.ahmed2268@nu.edu.eg](s.ahmed2268@nu.edu.eg) 
+- 🔗 **LinkedIn**: [www.linkedin.com/in/sherif-ahmed-mahmoud](www.linkedin.com/in/sherif-ahmed-mahmoud) 
 
 ---
 
