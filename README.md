@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm **Sherif Ahmed**, a passionate software develo
 - 💻 **Current Projects**: I am currently working on multiple projects ranging from web development to systems programming.
 - 🌱 **Learning**: I'm always improving my skills and exploring new technologies, particularly in **backend development** and **operating systems**.
 - 📚 **Education**: I am pursuing my studies in **Computer Science**.
-- 🚀 **Technologies**: I have experience with languages and frameworks like **C++**,**C#**, **Python**, **JavaScript**, **Django**, **Flask**, **ASP.NET Core**, **MySQL** و**SQLSERVER**.
+- 🚀 **Technologies**: I have experience with languages and frameworks like **C++**,**C#**, **Python**, **JavaScript**, **Django**, **Flask**, **ASP.NET Core**, **MySQL** ,**SQLSERVER**.
 
 ## Get In Touch
 
