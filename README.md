@@ -16,6 +16,3 @@ Feel free to explore my repositories, raise issues, or ask questions. I'm always
 - 📫 **Email**: [s.ahmed2268@nu.edu.eg](s.ahmed2268@nu.edu.eg) 
 - 🔗 **LinkedIn**: [www.linkedin.com/in/sherif-ahmed-mahmoud](www.linkedin.com/in/sherif-ahmed-mahmoud) 
 
----
-
-Thanks for visiting my GitHub profile! Let's connect and build something great together!
